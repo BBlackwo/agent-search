@@ -60,7 +60,8 @@
     "start": "gulp serve",
     "test": "karma start",
     "watch": "gulp serve",
-    "webpack": "gulp webpack"
+    "webpack": "gulp webpack",
+    "server": "node server/index.js"
   },
   "keywords": [
     "angular",

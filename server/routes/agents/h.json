@@ -1,0 +1,244 @@
+{
+  "Results": [
+    {
+      "AutoSearchType": "Agents",
+      "Id": "cj809",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "HT ",
+      "SecondaryName": "H&T Brisbane Pty Ltd",
+      "RawName": null,
+      "Coords": {
+        "Lat": -22.79643,
+        "Lon": 144.14062
+      },
+      "Url": "/real-estate-agent/ht-cj809/reviews",
+      "Location": "Queensland",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "cg742",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Harvey ",
+      "SecondaryName": "Pace Realty Pty Ltd",
+      "RawName": null,
+      "Coords": {
+        "Lat": -33.808174047223666,
+        "Lon": 151.13590413218012
+      },
+      "Url": "/real-estate-agent/harvey-cg742/reviews",
+      "Location": "Sydney, New South Wales",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "ck720",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Hank ",
+      "SecondaryName": "Styles Realty",
+      "RawName": null,
+      "Coords": {
+        "Lat": -22.79643,
+        "Lon": 144.14062
+      },
+      "Url": "/real-estate-agent/hank-ck720/reviews",
+      "Location": "Queensland",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "co045",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Harvey ",
+      "SecondaryName": "Linking Investment Group",
+      "RawName": null,
+      "Coords": {
+        "Lat": -33.808174047223666,
+        "Lon": 151.13590413218012
+      },
+      "Url": "/real-estate-agent/harvey-co045/reviews",
+      "Location": "Sydney, New South Wales",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "cq542",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Housequest ",
+      "SecondaryName": "Housequest - Ipswich",
+      "RawName": null,
+      "Coords": {
+        "Lat": -27.393145095901531,
+        "Lon": 153.12864716893091
+      },
+      "Url": "/real-estate-agent/housequest-cq542/reviews",
+      "Location": "Brisbane, Queensland",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "cu491",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "HENG ",
+      "SecondaryName": "Best Property (Australia) Pty Ltd",
+      "RawName": null,
+      "Coords": {
+        "Lat": -37.961222293638585,
+        "Lon": 144.97694304213337
+      },
+      "Url": "/real-estate-agent/heng-cu491/reviews",
+      "Location": "Melbourne, Victoria",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "cv731",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Hengyi ",
+      "SecondaryName": "Light House",
+      "RawName": null,
+      "Coords": {
+        "Lat": -37.961222293638585,
+        "Lon": 144.97694304213337
+      },
+      "Url": "/real-estate-agent/hengyi-cv731/reviews",
+      "Location": "Melbourne, Victoria",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "dd960",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Harvey ",
+      "SecondaryName": "Joy Realty",
+      "RawName": null,
+      "Coords": {
+        "Lat": -28.041356553025956,
+        "Lon": 153.44774961114908
+      },
+      "Url": "/real-estate-agent/harvey-dd960/reviews",
+      "Location": "Gold Coast - Tweed Heads, New South Wales",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "cg972",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Helen ",
+      "SecondaryName": "Good View Properties",
+      "RawName": null,
+      "Coords": null,
+      "Url": "/real-estate-agent/helen-cg972/reviews",
+      "Location": null,
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "cp705",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Hetty ",
+      "SecondaryName": null,
+      "RawName": null,
+      "Coords": {
+        "Lat": -32.947992354943523,
+        "Lon": 151.67348906888566
+      },
+      "Url": "/real-estate-agent/hetty-cp705/reviews",
+      "Location": "Newcastle - Maitland, New South Wales",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    }
+  ],
+  "Total": 6331,
+  "Take": 10,
+  "Skip": 0
+}

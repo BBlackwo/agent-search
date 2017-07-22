@@ -1,0 +1,247 @@
+{
+  "Results": [
+    {
+      "AutoSearchType": "Agents",
+      "Id": "dd960",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Harvey ",
+      "SecondaryName": "Joy Realty",
+      "RawName": null,
+      "Coords": {
+        "Lat": -28.041356553025956,
+        "Lon": 153.44774961114908
+      },
+      "Url": "/real-estate-agent/harvey-dd960/reviews",
+      "Location": "Gold Coast - Tweed Heads, New South Wales",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "cg742",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Harvey ",
+      "SecondaryName": "Pace Realty Pty Ltd",
+      "RawName": null,
+      "Coords": {
+        "Lat": -33.808174047223666,
+        "Lon": 151.13590413218012
+      },
+      "Url": "/real-estate-agent/harvey-cg742/reviews",
+      "Location": "Sydney, New South Wales",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "co045",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Harvey ",
+      "SecondaryName": "Linking Investment Group",
+      "RawName": null,
+      "Coords": {
+        "Lat": -33.808174047223666,
+        "Lon": 151.13590413218012
+      },
+      "Url": "/real-estate-agent/harvey-co045/reviews",
+      "Location": "Sydney, New South Wales",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "bg041",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Martine Harvey",
+      "SecondaryName": "Sydney Sotheby's International Realty",
+      "RawName": null,
+      "Coords": {
+        "Lat": -33.808174047223666,
+        "Lon": 151.13590413218012
+      },
+      "Url": "/real-estate-agent/martine-harvey-bg041/reviews",
+      "Location": "Sydney, New South Wales",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "bn838",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Phillip Harvey",
+      "SecondaryName": "Harveys Real Estate",
+      "RawName": null,
+      "Coords": {
+        "Lat": -32.18806823807013,
+        "Lon": 115.81224220327498
+      },
+      "Url": "/real-estate-agent/phillip-harvey-bn838/reviews",
+      "Location": "Perth, Western Australia",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "bn730",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Philip Harvey",
+      "SecondaryName": "Chadwick Real Estate St Ives",
+      "RawName": null,
+      "Coords": {
+        "Lat": -33.808174047223666,
+        "Lon": 151.13590413218012
+      },
+      "Url": "/real-estate-agent/philip-harvey-bn730/reviews",
+      "Location": "Sydney, New South Wales",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "bt481",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Scott Harvey",
+      "SecondaryName": "Scott Harvey Real Estate",
+      "RawName": null,
+      "Coords": {
+        "Lat": -28.843081623840064,
+        "Lon": 153.5700790352771
+      },
+      "Url": "/real-estate-agent/scott-harvey-bt481/reviews",
+      "Location": "Ballina, New South Wales",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "ci878",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Kate Harvey",
+      "SecondaryName": "Deloraine First National Real Estate",
+      "RawName": null,
+      "Coords": {
+        "Lat": -41.90227,
+        "Lon": 146.42578
+      },
+      "Url": "/real-estate-agent/kate-harvey-ci878/reviews",
+      "Location": "Tasmania",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "cs427",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Peter Harvey",
+      "SecondaryName": "Peard Real Estate Scarborough",
+      "RawName": null,
+      "Coords": {
+        "Lat": -32.18806823807013,
+        "Lon": 115.81224220327498
+      },
+      "Url": "/real-estate-agent/peter-harvey-cs427/reviews",
+      "Location": "Perth, Western Australia",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    },
+    {
+      "AutoSearchType": "Agents",
+      "Id": "db708",
+      "AutoSearchSubType": null,
+      "SearchName": null,
+      "Name": "Harvey Meng",
+      "SecondaryName": "Laing + Simmons Campsie",
+      "RawName": null,
+      "Coords": {
+        "Lat": -33.808174047223666,
+        "Lon": 151.13590413218012
+      },
+      "Url": "/real-estate-agent/harvey-meng-db708/reviews",
+      "Location": "Sydney, New South Wales",
+      "ImageUrl": "http://localhost:3000/agent.jpg",
+      "Awards": {
+        "Has2017Award": false
+      },
+      "BackgroundColour": null,
+      "StateAbbreviation": null,
+      "ParentLocationIds": null,
+      "Postcode": null,
+      "Stub": null
+    }
+  ],
+  "Total": 70,
+  "Take": 10,
+  "Skip": 0
+}
