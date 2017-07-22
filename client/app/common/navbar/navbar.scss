@@ -1,22 +1,39 @@
-@import '../common';
+@import '../styles/common';
 
-.navbar {
-  height: 6.5rem;
-  background-color: $primaryColor;
-  padding: 1rem;
+navbar {
+  background-color: $bgColorDarker;
 
-  .nav-links,
-  .logo {
-    display: inline-block;
-  }
+  .nav-links {
+    display: flex;
+    flex-direction: column;
 
-  .logo {
-    color: $lightTextColor;
-    margin-right: 50%;
-  }
+    @media (min-width: $screen-xsm) {
+      flex-direction: row;
+    }
 
-  .nav-links span {
-    color: $lightTextColor;
-    font-size: 1.6rem;
+    .link-wrapper {
+      font-size: 1rem;
+      padding: 0.5rem 2rem;
+
+      @media (min-width: $screen-xsm) {
+        padding: 1rem 3rem;
+
+        border-right: solid 1px grey;
+        &:last-child {
+          border-right: none;
+        }
+      }
+    }
+
+    a,
+    a:visited {
+      color: $secondaryText;
+      text-decoration: none;
+    };
+
+    .link {
+      text-transform: uppercase;
+      font-weight: bold;
+    }
   }
 }

@@ -1,0 +1,47 @@
+@import "../../common/styles/vars";
+
+agent {
+  margin: 10px 0;
+
+  @media(min-width: $screen-sm) {
+    margin: 15px;
+  }
+
+  @media(min-width: $screen-lg) {
+    margin: 20px;
+  }
+
+  display: flex;
+  width: 300px;
+
+  .image {
+    width: 90px;
+    height: 90px;
+
+    margin-right: 20px;
+
+    flex-shrink: 0;
+  }
+
+  img {
+    width: 100%;
+
+    border-radius: 50%;
+  }
+
+  .text-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .name {
+    font-size: 1.2rem;
+  }
+
+  .secondary-name {
+    font-size: 0.9rem;
+
+    color: $secondaryText;
+  }
+}

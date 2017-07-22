@@ -1,0 +1,68 @@
+@import "../../common/styles/vars";
+
+agent-page {
+
+  // TODO: MAKE IMAGE SLIGHTLY DARKER
+  .search-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 190px;
+
+    background: no-repeat center url('background.png');
+    background-size: cover;
+  }
+
+  form.search-form {
+    display: flex;
+
+    margin: 0 10px;
+
+    width: 100%;
+    @media (min-width: $screen-xsm) {
+      width: 75%;
+    }
+    @media (min-width: $screen-sm) {
+      width: 55%;
+    }
+  }
+
+  .form-input {
+    width: 70%;
+    height: 100%;
+
+    font-size: 1.5rem;
+    @media (min-width: $screen-xsm) {
+      font-size: 2rem;
+    }
+
+    border: $standardBorder;
+  }
+
+  .error-message {
+    color: red;
+    font-size: 1.5rem;
+  }
+
+  .button {
+    padding: 0 20px;
+    @media (min-width: $screen-xsm) {
+      padding: 0 35px;
+    }
+
+    border: $standardBorder;
+    font-size: 1rem;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: $secondaryText;
+
+    background-color: $buttonBg1;
+  }
+
+  .button:hover {
+    background-color: $buttonHoverBg1;
+  }
+
+}

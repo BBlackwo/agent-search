@@ -1,0 +1,17 @@
+<navbar></navbar>
+<h1 class="sr-only">Agent Search</h1>
+<section>
+
+  <div class="search-wrapper">
+    <form name="agentSearchForm" ng-submit="$ctrl.submit()" class="search-form">
+      <label for="agentSearch" class="sr-only">Agent or Agency Name</label>
+      <input id="agentSearch" type="text" class="form-input" ng-model="$ctrl.agentSearch"/>
+      <button type="submit" class="button">Search</button>
+    </form>
+  </div>
+
+  <agent-list agent-list="$ctrl.agentList"></agent-list>
+
+  <div class="error-message" ng-bind="$ctrl.errorMessage"></div>
+
+</section>

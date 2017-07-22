@@ -1,0 +1,40 @@
+// ----------------------------
+// COLOURS
+// ----------------------------
+// BG
+$bgColorLight:    #FBFBFB;
+$bgColorDarker:   #F5F5F5;
+
+// TEXT
+$primaryText:     #1C2733;
+$secondaryText:   #677587;
+
+// BORDER
+$borderColor:     #A5A5A5;
+
+// BUTTON
+$buttonBg1:       #FBFBFB;
+$buttonBg2:       #F6F6F6;
+
+$buttonHoverBg1:  darken($buttonBg1, 10%);
+$buttonHoverBg2:  darken($buttonBg2, 10%);
+
+// OLD
+$primaryColor:    #0277bd;
+$accentColor:     #1de9b6;
+$darkBgColor:     #263238;
+$lightBgColor:    #37474f;
+$lightTextColor:  #f5f5f5;
+$darkTextColor:   #212121;
+
+// ----------------------------
+// MISC
+// ----------------------------
+$standardBorder: 1px solid $borderColor;
+
+// ----------------------------
+// BREAKPOINTS
+// ----------------------------
+$screen-xsm:      400px;
+$screen-sm:       720px;
+$screen-lg:       960px;
