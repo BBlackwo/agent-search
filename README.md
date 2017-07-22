@@ -73,6 +73,7 @@ concern--may it be a feature or strictly-defined, ever-present element of the UI
 footer). Also characteristic of a component is that it harnesses its own stylesheets, templates, controllers, routes, 
 services, and specs. This encapsulation allows us the comfort of isolation and structural locality. Here's how it 
 looks:
+
 ```
 client
 ⋅⋅app/
