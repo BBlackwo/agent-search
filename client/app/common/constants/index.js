@@ -1,5 +1,5 @@
-// const baseUrl = 'https://api.ratemyagent.com.au'; // Uncomment for local
-const baseUrl = `//${window.location.hostname}:3000`;
+const baseUrl = 'https://api.ratemyagent.com.au';
+// const baseUrl = `//${window.location.hostname}:3000`; // Uncomment for local testing
 
 const Endpoints = {
   AGENTS_SEARCH: `${baseUrl}/autosearch/agents`
