@@ -1,6 +1,5 @@
 class AgentListController {
   constructor() {
-    this.name = 'agentList';
   }
 }
 

@@ -13,12 +13,7 @@ describe('Navbar', () => {
     $compile = $injector.get('$compile');
   }));
 
-  describe('Module', () => {
-    // top-level specs: i.e., routes, injection, naming
-  });
-
   describe('Controller', () => {
-    // controller specs
     let controller;
     beforeEach(() => {
       controller = $componentController('navbar', {
@@ -26,13 +21,12 @@ describe('Navbar', () => {
       });
     });
 
-    it('has a name property', () => { // erase if removing this.name from the controller
-      expect(controller).to.have.property('name');
-    });
+    it('should exist', () => {
+      expect(controller).to.not.be.undefined;
+    })
   });
 
   describe('View', () => {
-    // view layer specs.
     let scope, template;
 
     beforeEach(() => {
@@ -41,9 +35,8 @@ describe('Navbar', () => {
       scope.$apply();
     });
 
-    it('has name in template', () => {
-      expect(template.find('h1').find('a').html()).to.eq('navbar');
+    it('has some links', () => {
+      expect(template.find('a').html()).to.eq('Home');
     });
-
   });
 });
