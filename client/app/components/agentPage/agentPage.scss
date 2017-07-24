@@ -10,7 +10,8 @@ agent-page {
 
     height: 190px;
 
-    background: no-repeat center url('background.png');
+    background: no-repeat center;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('background.png');
     background-size: cover;
   }
 
